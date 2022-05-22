@@ -1,4 +1,4 @@
-# CryptoDevHub - Site
+# CryptoCloud - Site
 
 ## Local Development
 
