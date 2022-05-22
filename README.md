@@ -1,4 +1,4 @@
-# CryptoCloud - Site
+# Cryptosaurus- Site
 
 ## Local Development
 
